@@ -13,7 +13,7 @@
 - 📫 How to reach me **akashyadavofficially@gmail.com**
 
 - 🔭 You Can See My Resently Done Projects By Click On This Links ===>
-  <P>Responsive Spotify web  <a href="https://akashyadavo.github.io/CSS_Project/"></a></P>
+ <a href="https://akashyadavo.github.io/CSS_Project/">Responsive Spotify web </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
