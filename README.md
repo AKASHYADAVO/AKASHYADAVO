@@ -15,8 +15,8 @@
 <hr/>
 
 - 🔭 You Can See My Resently Done Projects By Click On Below Links
-  
-  <h1> CSS Project </h1>        <a href="https://akashyadavo.github.io/CSS_Project/">Responsive Spotify web </a>
+
+-   CSS Project: <a href="https://akashyadavo.github.io/CSS_Project/">Responsive Spotify web </a>
  
 <hr/>
 <h3 align="left">Connect with me:</h3>
