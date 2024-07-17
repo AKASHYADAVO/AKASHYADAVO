@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **akashyadavofficially@gmail.com**
 
-- 🔭 You Can My Resently Done Projects By Click On This Links ===>
+- 🔭 You Can See My Resently Done Projects By Click On This Links ===>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
