@@ -18,7 +18,7 @@
 
 -   CSS Project:
 -   <a href="https://akashyadavo.github.io/CSS_Project/">Responsive Spotify web </a>
--   <a href=" https://akashyadavo.github.io/CSS_Mini_Project/"> CSS_Mini_Project/</a>
+-   <a href="https://akashyadavo.github.io/CSS_Mini_Project/"> CSS_Mini_Project/</a>
 
  
 <hr/>
