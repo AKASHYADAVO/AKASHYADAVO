@@ -16,7 +16,7 @@
 
 - 🔭 You Can See My Resently Done Projects By Click On Below Links
 
--   CSS Project: <ul>  <a href="https://akashyadavo.github.io/CSS_Project/">Responsive Spotify web </a>
+-   CSS Project: <ul> <li> <a href="https://akashyadavo.github.io/CSS_Project/">Responsive Spotify web </a> </li>
     <a href="https://akashyadavo.github.io/CSS_Mini_Project/"> CSS_Mini_Project/</a>
 </ul>
  
