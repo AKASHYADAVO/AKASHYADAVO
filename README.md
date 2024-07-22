@@ -8,8 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Trading_web_Project** 
-- GPS Based Toll Tax System
+- 🔭 I’m currently working on **1)Trading_web_Project    2)GPS Based Toll Tax System**
 - 📫 How to reach me **akashyadavofficially@gmail.com**
 
 <hr/>
