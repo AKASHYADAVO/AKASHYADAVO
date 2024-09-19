@@ -8,14 +8,21 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **1)Trading_web_Project    2)GPS Based Toll Tax System**
+- 🔭 I’m currently working on **1)Personal AI ChatBoot    2)GPS Based Toll Tax System**
 - 📫 How to reach me **akashyadavofficially@gmail.com**
+- 📫 My PortFolio link : https://gmxz6obqwfp9egacxauima.on.drv.tw/WWW.AKASHPORTFOLIO.COM/AKASH-PORTFOLIO-WEB-main/
 
 <hr/>
 
 - 🔭 You Can See My Resently Done Projects By Click On Below Links
 
--   CSS Project: <ul><li> <a href="https://akashyadavo.github.io/CSS_Project/">Responsive Spotify web </a> </li><li><a href="https://akashyadavo.github.io/CSS_Mini_Project/"> CSS_Mini_Project</a></li> 
+-   My Project: <ul>  <ul> <li> <a href="https://gmxz6obqwfp9egacxauima.on.drv.tw/WWW.AKASHPORTFOLIO.COM/AKASH-PORTFOLIO-WEB-main/"> My Resume WebSite </a>
+
+ <li> <a href="https://akashyadavo.github.io/Zerodha-Web-Clone/"> Trading website Zerodha (React) </a>
+     <li> <a href="https://akashyadavo.github.io/CODESOFTL1TASK2/"> Calculator </a>
+     <li> <a href="https://akashyadavo.github.io/PRODIGY_WD_01/">Landing Page </a>
+  li> <a href="https://akashyadavo.github.io/PRODIGY_WD_3/"> Tic-Tac-Toe </a>
+<li> <a href="https://akashyadavo.github.io/CSS_Project/">Responsive Spotify web </a> </li><li><a href="https://akashyadavo.github.io/CSS_Mini_Project/"> CSS_Mini_Project</a></li> 
 </ul>
  
 <hr/>
