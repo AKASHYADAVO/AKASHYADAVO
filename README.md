@@ -19,10 +19,11 @@
 -   My Project: <ul>
 <li> <a href="https://gmxz6obqwfp9egacxauima.on.drv.tw/WWW.AKASHPORTFOLIO.COM/AKASH-PORTFOLIO-WEB-main/"> My Resume WebSite </a>
 <li> <a href="https://akashyadavo.github.io/Zerodha-Web-Clone/"> Trading website Zerodha (React) </a>
+<li> <a href="https://akashyadavo.github.io/CSS_Project/">Responsive Spotify web </a> 
+<li> <a href="https://akashyadavo.github.io/PRODIGY_WD_3/"> Tic-Tac-Toe </a>
 <li> <a href="https://akashyadavo.github.io/CODESOFTL1TASK2/"> Calculator </a>
 <li> <a href="https://akashyadavo.github.io/PRODIGY_WD_01/">Landing Page </a>
-<li> <a href="https://akashyadavo.github.io/PRODIGY_WD_3/"> Tic-Tac-Toe </a>
-<li> <a href="https://akashyadavo.github.io/CSS_Project/">Responsive Spotify web </a> </li><li><a href="https://akashyadavo.github.io/CSS_Mini_Project/"> CSS_Mini_Project</a></li> 
+<li><a href="https://akashyadavo.github.io/CSS_Mini_Project/"> CSS_Mini_Project</a></li> 
 </ul>
  
 <hr/>
